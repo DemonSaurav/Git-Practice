@@ -1,1 +1,2 @@
-This is my first draft of code
+This is code change from Githubn not from git
+And this version 2.
